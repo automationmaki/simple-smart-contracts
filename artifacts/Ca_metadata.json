@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Calcaulator.sol": "Ca"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Calcaulator.sol": {
+			"keccak256": "0x68196fc830a9e959c235d1be8d6f693c7dab18b51687717fa204fef38063039f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b528654d8269622c6d8ec65a35c73654013b1e8112fe431de69654d6cfde75bd",
+				"dweb:/ipfs/QmaviasPqKZ87hUJpLZPFR2M8wqfR6zJec1EcYxQnFkkt1"
+			]
+		}
+	},
+	"version": 1
+}
